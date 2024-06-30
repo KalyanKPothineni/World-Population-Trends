@@ -1,6 +1,3 @@
-# World-Population-Trends
-World Population Trends
-
 # World Population Trends Analysis
 This repository contains the implementation of the "World Population Trends" analysis using Jupyter Notebook. The analysis explores historical and current trends in global population, providing insights into growth patterns, demographic changes, and regional variations.
 
