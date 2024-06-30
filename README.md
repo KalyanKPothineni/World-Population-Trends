@@ -1,7 +1,7 @@
-![images](https://github.com/KalyanKPothineni/World-Population-Trends/assets/174274413/660fea21-3e7d-49ad-88f3-7f328c30bfa7)
-
 # World Population Trends Analysis
 This repository contains the implementation of the "World Population Trends" analysis using Jupyter Notebook. The analysis explores historical and current trends in global population, providing insights into growth patterns, demographic changes, and regional variations.
+
+![images](https://github.com/KalyanKPothineni/World-Population-Trends/assets/174274413/660fea21-3e7d-49ad-88f3-7f328c30bfa7)
 
 # Project Structure
 World Population Trends_updated.ipynb: Jupyter Notebook containing the analysis and visualizations of world population trends.
